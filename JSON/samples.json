@@ -1,19 +1,19 @@
 [
   {
     "name": "Start Over Again",
-    "file": "samples/Start Over Again.mp3",
+    "file": "samples/Start_Over_Again.mp3",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "Finnish Folk",
-    "file": "samples/Finnish Folk.mp3",
+    "file": "samples/Finnish_Folk.mp3",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "First Time",
-    "file": "samples/First Time.mp3",
+    "file": "samples/First_Time.mp3",
     "bpm": "120",
     "loop": "1m"
   }
