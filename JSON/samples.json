@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Start Over Again",
+    "file": "samples/Start Over Again.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
