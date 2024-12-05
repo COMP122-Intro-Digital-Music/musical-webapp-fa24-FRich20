@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Test 1",
+    "pitch": "C#4",
+    "pattern": "10001010"
+  },
+  {
+    "name": "Test 2",
+    "pitch": "A3",
+    "pattern": "10001000"
+  },
+  {
+    "name": "Test 3",
+    "pitch": "B3",
+    "pattern": "10101100"
+  }
+]
