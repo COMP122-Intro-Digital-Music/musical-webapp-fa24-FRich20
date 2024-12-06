@@ -49,46 +49,4 @@
         ]
       }
     }
-  },
-  {
-    "name": "Default Graph",
-    "pitchSet": {
-      "state": "C4",
-      "matrix": {
-        "C4": [
-          "C4"
-        ]
-      }
-    },
-    "rhythmSet": {
-      "state": "4n",
-      "matrix": {
-        "4n": [
-          "4n"
-        ],
-        "2n": [
-          "2n"
-        ]
-      }
-    }
-  },
-  {
-    "name": "Default Graph",
-    "pitchSet": {
-      "state": "C4",
-      "matrix": {
-        "C4": [
-          "C4"
-        ]
-      }
-    },
-    "rhythmSet": {
-      "state": "4n",
-      "matrix": {
-        "4n": [
-          "4n"
-        ]
-      }
-    }
   }
-]
